@@ -1,6 +1,5 @@
 -------------------
-
-A GTK+ theme for Workspaces
+# A GTK+ theme for Workspaces
 
 
 ### Required Components
