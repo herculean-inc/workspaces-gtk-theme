@@ -1,10 +1,6 @@
-<p align="center">
-<img src="https://github.com/system76/pop-gtk-theme/raw/master/Pop_gtk-logo.png"/>
-</p>
-
 -------------------
 
-A GTK+ theme for Pop!_OS 
+A GTK+ theme for Workspaces
 
 
 ### Required Components
