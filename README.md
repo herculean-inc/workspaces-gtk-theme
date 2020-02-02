@@ -1,4 +1,3 @@
--------------------
 # A GTK+ theme for Workspaces
 
 
