@@ -1,45 +1,45 @@
-Source: pop-gtk-theme
+Source: workspaces-gtk-theme
 Section: misc
 Priority: optional
-Maintainer: Ian Santopietro <ian@system76.com>
+Maintainer: Herculean Inc <hello@hercules.dev>
 Build-Depends: debhelper (>= 10.3),
 Build-Depends-Indep: libglib2.0-dev,
                      meson (>= 0.45),
                      sassc,
-Standards-Version: 4.1.5
-Homepage: https://github.com/pop-os/gtk-theme
-Vcs-Browser: https://github.com/pop-os/gtk-theme
-Vcs-Git: https://github.com/pop-os/gtk-theme
+Standards-Version: 1.0.0
+Homepage: https://github.com/herculean-inc/workspaces-gtk-theme
+Vcs-Browser: https://github.com/herculean-inc/workspaces-gtk-theme
+Vcs-Git: https://github.com/herculean-inc/workspaces-gtk-theme
 
-Package: pop-gnome-shell-theme
+Package: workspaces-gnome-shell-theme
 Architecture: all
 Depends: ${shlibs:Depends},
          ${misc:Depends},
-         pop-gtk-theme
-Description: Pop GNOME Shell Theme
- The Pop theme for GNOME Shell
+         workspaces-gtk-theme
+Description: Workspaces GNOME Shell Theme
+ The Workspaces theme for GNOME Shell
  .
  This package contains the GNOME Shell theme part
 
-Package: pop-gtk-theme
+Package: workspaces-gtk-theme
 Architecture: all
 Depends: ${shlibs:Depends},
          ${misc:Depends},
          gnome-themes-extra,
          gtk2-engines-pixbuf,
          gtk2-engines-murrine,
-Conflicts: pop-gnome-shell-theme (<= 4.1.0),
-Description: Pop GTK Theme
- The Pop theme for GTK.
+Conflicts: workspaces-gnome-shell-theme (<= 4.1.0),
+Description: Workspaces GTK Theme
+ The Workspaces theme for GTK.
  .
  This package contains the GTK 2 and 3 theme parts
 
-Package: pop-sound-theme
+Package: workspaces-sound-theme
 Architecture: all
 Depends: ${shlibs:Depends},
          ${misc:Depends},
-Description: Pop sound theme
- The Pop sound theme is based on the Ubuntu Yaru sound theme. 
+Description: workspaces sound theme
+ The Workspaces sound theme is based on the Ubuntu Yaru sound theme. 
  .
  This package contains the sound theme
  .

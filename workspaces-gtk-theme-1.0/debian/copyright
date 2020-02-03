@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: Pop
-Source: https://github.com/pop-os/gtk-theme
+Upstream-Name: Workspaces
+Source: https://github.com/herculean-inc/workspaces-gtk-theme
 
 Files: *
 Copyright: 2019, System76, Inc.

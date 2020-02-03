@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 02 Feb 2020 18:15:58 -0600
+Source: workspaces-gtk-theme
+Architecture: source
+Version: 5.0.0ubuntu2
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-gtk-theme (5.0.0ubuntu2) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ b03493cc2d7962f2ac9e69a7c9f03b3c90ae819e 1915 workspaces-gtk-theme_5.0.0ubuntu2.dsc
+ 3c42e04fac382dfda8188e1770ddaeecd1cece8e 927872 workspaces-gtk-theme_5.0.0ubuntu2.tar.xz
+ 75def37a15d2cdc8a9c2f077e468b508cef3b8cb 6213 workspaces-gtk-theme_5.0.0ubuntu2_source.buildinfo
+Checksums-Sha256:
+ 9e61e76f90491576e6dbec64d701b10d5aa0c6103e2abab8fede1d7a87a82916 1915 workspaces-gtk-theme_5.0.0ubuntu2.dsc
+ 662b7facbf71e70859b4e655169499215954812263f1f117bff75aee7dbc7693 927872 workspaces-gtk-theme_5.0.0ubuntu2.tar.xz
+ 3e409349a27733eb89d7223e75bf59f8d08f8b9a5742da1ea590fe816fd3ec81 6213 workspaces-gtk-theme_5.0.0ubuntu2_source.buildinfo
+Files:
+ 0bd3992af00470ca5c409db6be33a97b 1915 misc optional workspaces-gtk-theme_5.0.0ubuntu2.dsc
+ f1534e4d109c7dda38714de93d514c2f 927872 misc optional workspaces-gtk-theme_5.0.0ubuntu2.tar.xz
+ b20575329bd6adeebd1fa760f913d934 6213 misc optional workspaces-gtk-theme_5.0.0ubuntu2_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl43ZkAACgkQ4dwtItTb
+NMiC4A//d5PRa2q4DeunR8MyWloMsy2SjhBdeEHZC+PfT6hy0eIoOkiHpxN+POqI
+e1AWJXGq8S16vx6nNhRpWooNyIP6kA5A/O13PbNu45eKEgkwihk+dC0j6S2uPi5C
+J71TrJGZQcsb4DDULpNu8ICz/F/JlU9mzbjh55I+hH6CHr1OqXRs/GD8Ok3ho5gx
+k++8Dgb75VxkGvOBFDxOraL5u4D+4HyhQZ1ZZD/DbTKcVPFXM7Xu5s3U590+wewp
+d6FSlOBqkgQ0dOyuWZDJEuZd0SEiC3UUrdtu8vd/Caf+RLfcmt7aLdI/JQmNoHjJ
+HNA2XyE2Qb+Sb2PXIeE8YfN6lTQWG/mlfT+iozREKoPGqU+tt6A2U6OvuhJnrlD8
+ryw6bmPzylU7/2WMEA2qic970NLl0B9VMYrUKFWk1VL4GQmERy8qYxK68yx/QciM
+LZsvz4oS8UkW129smYXx/IKlaUpMeewFzZFxlXIoqDeb7btjHDAKVQNU0kgARZsW
+eHmryLxd2OkxHc9TArTUzrihJ1/jGmDEYNiSAbo3oXblpVHREIAwTunaKbipFAOR
+mY5FyycCS5r/Mzwef/LkFqTnR4XNgMUUlYw+aE0BuRdYNfbCzkUg3yPh7B+TtUUL
+l5BiYuzzhva3Nu04SjD1d3sZpomZoNm/2rrRgGO6haqCGTm3tjU=
+=gVen
+-----END PGP SIGNATURE-----
