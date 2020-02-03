@@ -36,9 +36,9 @@ foreach style: styles
                               depend_files: theme_sources)
 endforeach
 
-theme_deps += custom_target('pop-session-theme',
+theme_deps += custom_target('workspaces-session-theme',
                             input: 'gnome-shell.scss',
-                            output: 'pop.css',
+                            output: 'workspaces.css',
                             command: [
                               sassc, '-a', '@INPUT@', '@OUTPUT@'
                             ],
@@ -103,6 +103,6 @@ install_data(data_sources, install_dir: dark_install_dir)
 
 run_command(
   'cp',
-  '/usr/share/gnome-shell/theme/Pop/gnome-shell.css',
-  '/usr/share/gnome-shell/theme/pop.css'
+  '/usr/share/gnome-shell/theme/Workspaces/gnome-shell.css',
+  '/usr/share/gnome-shell/theme/workspaces.css'
 )

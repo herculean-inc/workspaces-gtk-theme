@@ -25,7 +25,7 @@ theme_deps += custom_target('gnome-shell-dark',
 
 theme_deps += custom_target('gnome-shell-dark-autoswitch',
                             input: 'gnome-shell.scss',
-                            output: 'pop-dark.css',
+                            output: 'workspaces-dark.css',
                             command: [
                               sassc, '-a', '@INPUT@', '@OUTPUT@'
                             ],
