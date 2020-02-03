@@ -5,16 +5,16 @@ Format: 1.0
 Source: workspaces-gtk-theme
 Binary: workspaces-gnome-shell-theme workspaces-gtk-theme workspaces-sound-theme
 Architecture: source
-Version: 5.0.0ubuntu4
+Version: 5.0.0ubuntu5
 Checksums-Md5:
- a188359009e771aeb444a56cc643fa9a 1920 workspaces-gtk-theme_5.0.0ubuntu4.dsc
+ 9d8c934ebc35f27e40a9c97bae39bbc0 1920 workspaces-gtk-theme_5.0.0ubuntu5.dsc
 Checksums-Sha1:
- 402292436e449ead5d10e34c559a9b3646a39fce 1920 workspaces-gtk-theme_5.0.0ubuntu4.dsc
+ d14226bc0525b09b9f1c46877cd4a76fda07ba26 1920 workspaces-gtk-theme_5.0.0ubuntu5.dsc
 Checksums-Sha256:
- 994f6fe9cbb185c7c6230b76c43962752e808beb92cbb6fb7624508d66275101 1920 workspaces-gtk-theme_5.0.0ubuntu4.dsc
+ d7d5a4414e14eb05bcd54bd05c1455a0a7783c24be7763aac20a5f93bd01c897 1920 workspaces-gtk-theme_5.0.0ubuntu5.dsc
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 02 Feb 2020 19:07:06 -0600
+Build-Date: Sun, 02 Feb 2020 19:10:15 -0600
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-configs
@@ -171,21 +171,21 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=8"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1580692024"
+ SOURCE_DATE_EPOCH="1580692213"
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl43cjoACgkQ4dwtItTb
-NMjOdhAAujtFhCH7SRgtrvL5gvXnBF8Vcozy6/ji2BVTHSx6JP2vvGN82yxxTARw
-aO034nA/zJjP1skf0Z0z6Zvi/SEv+MuJDFTiv/92KD0AMKRXN1UG5M5DmWiC+iRZ
-oApEqggiv8T0GMO/QFKE7TASR3zy0E/tP+K+kKWxUdrwhFfFBpXoe4grPJrejLoO
-EsJ65nIzVTCP6vmMU9nPjXMvgvD1KU0sNS/LNxz9I4Ny7pfmlurrcfCutU5bpVpV
-iTKr8cC2LtfKOyl/rZUn8VcT08t6G+y9JJ4YeHDwpd1B8VlOCM6o583xrN8WAv7g
-c3oN46hPZcrzINDNe6EDyUtcCW+DV/3pS35s4Y09oAEjV/Fe8heSMIBh9G0R7rP0
-UHJSRJRjPKXnjW/c5CIR8/9rN8mnmHAR0YuhWwSOnKqbsz4Jua2Ng8SMNVsazMU/
-FHaA15aIyL7IcSZiUhAw9QT/uSo7UQ89ZLu88azzv3wPGlZMwQ9vWVF5DjXV6URW
-GInP8D/1v2fXNIaNg/P7TOuHJUbvD7xSqteE6mCUlvma/bZc/+doerCudU7HqqGU
-l4T9J0smTm4C71C6vPRcawXQg35vBHqaACUgQwLBwssYIPCgBdEQqhxf2SCBnslN
-iRVApOJxiBeKNwEXBH4QHKwXDz4stxdit9liGLTuKYswx69spBQ=
-=63WS
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl43cvgACgkQ4dwtItTb
+NMgS1Q/+P9szt3CKSem8CysbUk5LHm4917LkXQVMf3tWSdub8ReRsGCUJ5n+OX1l
+D0y+I4nTrhFr43YgzRHZjJunKCDXSOgOO7Ba9PkG0iUtpMcyPsWVwZOty6fz0qVq
+ITkMUvDa3+CKn8LCV8RBfQu4LJxTtFFQjDzE2CwUaoesiiPj3xj8OEIiRiE6yZf6
+oFc5QT9SDT/wf0amD0Lfu9j3vLoafcjTfuRQsOR4TwgFEQo4o7agdEhs9WjChjn6
+FD9QMs4137F7I0V/5X/KmmPkjWq7i5W81c2sN2+KB75h8KbFDRbr0JJMomgWQu0x
+Qgmq25ddMC+wIT0Y/zlRzcf0qGijG68pKf06oGC3RXGsMft0UlWH9vor1o1niVD8
+IP6vpUXgcJ7uH5IVk0kIUi0rm39PMcxIwS4ZMJA3VL2mpU7luGH/BaW2Makp37NC
+lFUrn5PfUR4Y7QE1NuayC3PH/GJPRkBp1444rwlc0TmHkKG/X/JHRJXIFP6dnuOQ
+DsASFP4jC18e4iBGEvTvkJl51qMgW7ktvwbBo8dQX8x0na/OCcbLGu7+JBE3rrMs
+k6Z38SoYx7cU7YexKg2dHQVbIaeQXv1EYAmJi7KlwQYL9a+mrqRyAVsboCY3KVFR
+hWYbSId2hB4A0xxeLqVnJsQk2NBXniKeIPQiqT6rSYebBo61q9w=
+=9XKc
 -----END PGP SIGNATURE-----

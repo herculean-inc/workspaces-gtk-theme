@@ -1,4 +1,4 @@
-709ff5ba5b14a3824d374a22df659c9c  usr/share/doc/workspaces-gnome-shell-theme/changelog.gz
+bcf5471341e1d93d7e3e8f974eee7f72  usr/share/doc/workspaces-gnome-shell-theme/changelog.gz
 5941c27650b730b945d0f8b27a7ef8c6  usr/share/doc/workspaces-gnome-shell-theme/copyright
 f5fee094e7087e7d65fbb40a0454fd86  usr/share/gnome-shell/theme/Workspaces/calendar-today-dark.svg
 6a19a21f19791892361e9b15257541d0  usr/share/gnome-shell/theme/Workspaces/calendar-today.svg
@@ -25,7 +25,7 @@ b98f01651d67169c2f933ba4648fcbec  usr/share/gnome-shell/theme/Workspaces/key-shi
 a54fd1234cee46e55089f9c2f6a5049a  usr/share/gnome-shell/theme/Workspaces/message-indicator-symbolic.svg
 1c9cb843db2c12bb96cfd832ea32bd47  usr/share/gnome-shell/theme/Workspaces/no-events.svg
 9e327b1f21593b6824c71d0563d6d072  usr/share/gnome-shell/theme/Workspaces/no-notifications.svg
-559cfcec9398da5e6d6b8a0290e13e72  usr/share/gnome-shell/theme/Workspaces/noise-texture.png
+597e3172fd0b8bdbe9a61c8baea83c92  usr/share/gnome-shell/theme/Workspaces/noise-texture.png
 be4d8c0e70bb0e50e48a2a58bb53bfab  usr/share/gnome-shell/theme/Workspaces/pad-osd.css
 1d605b4bafa8da5f5ea2953ed6bdbe8f  usr/share/gnome-shell/theme/Workspaces/pointer-double-click-symbolic.svg
 01525b5a9d2660e0954fd2ab11719966  usr/share/gnome-shell/theme/Workspaces/pointer-drag-symbolic.svg

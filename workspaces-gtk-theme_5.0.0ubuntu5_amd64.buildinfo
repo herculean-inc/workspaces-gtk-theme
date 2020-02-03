@@ -2,25 +2,25 @@ Format: 1.0
 Source: workspaces-gtk-theme
 Binary: workspaces-gnome-shell-theme workspaces-gtk-theme workspaces-sound-theme
 Architecture: all source
-Version: 5.0.0ubuntu4
+Version: 5.0.0ubuntu5
 Checksums-Md5:
- 3d07cf04935bb5a43f6ed47a4a1f3bf5 1037 workspaces-gtk-theme_5.0.0ubuntu4.dsc
- ad55b41bfb05ed0a428f18b5dc80cc70 118844 workspaces-gnome-shell-theme_5.0.0ubuntu4_all.deb
- fe79e223de170880eeeb9823b941ada9 425400 workspaces-gtk-theme_5.0.0ubuntu4_all.deb
- ece23530115d8ec4c2428f022fe883bb 259516 workspaces-sound-theme_5.0.0ubuntu4_all.deb
+ e2a4d34246cd86b10d6cef92bd564ecd 1037 workspaces-gtk-theme_5.0.0ubuntu5.dsc
+ 2fac9cfbe42b7157b6d5433abdd7fe5f 118820 workspaces-gnome-shell-theme_5.0.0ubuntu5_all.deb
+ e802d8dd068550f21275dbd55b2eb42c 425288 workspaces-gtk-theme_5.0.0ubuntu5_all.deb
+ 1d46b05b4f8d2226b78aa4c7657919ac 259540 workspaces-sound-theme_5.0.0ubuntu5_all.deb
 Checksums-Sha1:
- 5eb0d73fc6aefb4103719da97e6823c664491bb8 1037 workspaces-gtk-theme_5.0.0ubuntu4.dsc
- ba89b613096a2f02819a29e332bf0febd7a8fedf 118844 workspaces-gnome-shell-theme_5.0.0ubuntu4_all.deb
- ac0bf58e1e3cdfa9b955a038a3971ddbc6ce554c 425400 workspaces-gtk-theme_5.0.0ubuntu4_all.deb
- daef4fcaa077bb492625b5e3ea0495defe1e96a8 259516 workspaces-sound-theme_5.0.0ubuntu4_all.deb
+ 34c7127be3b154444513a9e1133707446e8d267d 1037 workspaces-gtk-theme_5.0.0ubuntu5.dsc
+ 84c5843d1a784fee8463bcc8f8ab551e44c07778 118820 workspaces-gnome-shell-theme_5.0.0ubuntu5_all.deb
+ b4c0a3a352df495ae86b24b0a97fc9c4b3f77c05 425288 workspaces-gtk-theme_5.0.0ubuntu5_all.deb
+ c1e922177f9ed31d71160c7554340a99b313c8c2 259540 workspaces-sound-theme_5.0.0ubuntu5_all.deb
 Checksums-Sha256:
- b7e7f108ab950d718abe7cfa50068cb70fa9a0c47e65333446c496c10bcc3e66 1037 workspaces-gtk-theme_5.0.0ubuntu4.dsc
- 6f9be21e73899553efb5a62500615371547bf6d9a116ca62e0554c1505ccdeac 118844 workspaces-gnome-shell-theme_5.0.0ubuntu4_all.deb
- 470349c02236ae9ab8e8a22e44fe3539795dd801fd2a7b2c89c9aba05250d6bd 425400 workspaces-gtk-theme_5.0.0ubuntu4_all.deb
- 700bb885e8f48eed00068e2a0ee03a1cfb5ba5dbb6e0fe93e532dbe00b0a2937 259516 workspaces-sound-theme_5.0.0ubuntu4_all.deb
+ 2f92c15ff4a62f64ea7e4130ca1112167862dfc0f159a39d55e8e9e75b7389d4 1037 workspaces-gtk-theme_5.0.0ubuntu5.dsc
+ 7a66e52756115ed867158c299e993220d2439e8c2101fba826805767324d2558 118820 workspaces-gnome-shell-theme_5.0.0ubuntu5_all.deb
+ 4123d4e74f5a02521f9c9c656436cebd41b6200111f4bada72f692e383e1b3a0 425288 workspaces-gtk-theme_5.0.0ubuntu5_all.deb
+ 2e59134c1410cd06cc967e8ac5e99e01456c2285a1dfad4fd2bd590af6e81c58 259540 workspaces-sound-theme_5.0.0ubuntu5_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 02 Feb 2020 19:07:18 -0600
+Build-Date: Sun, 02 Feb 2020 19:10:28 -0600
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-configs
@@ -217,4 +217,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=8"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1580692024"
+ SOURCE_DATE_EPOCH="1580692213"

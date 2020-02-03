@@ -1,6 +1,6 @@
  dpkg-buildpackage -us -uc -ui
 dpkg-buildpackage: info: source package workspaces-gtk-theme
-dpkg-buildpackage: info: source version 5.0.0ubuntu4
+dpkg-buildpackage: info: source version 5.0.0ubuntu5
 dpkg-buildpackage: info: source distribution eoan
 dpkg-buildpackage: info: source changed by Herculean Inc <hello@hercules.dev>
  dpkg-source --before-build .
@@ -14,8 +14,8 @@ dh clean --buildsystem=meson
 dpkg-source: warning: Version number suggests Ubuntu changes, but Maintainer: does not have Ubuntu address
 dpkg-source: warning: Version number suggests Ubuntu changes, but there is no XSBC-Original-Maintainer field
 dpkg-source: info: using source format '3.0 (native)'
-dpkg-source: info: building workspaces-gtk-theme in workspaces-gtk-theme_5.0.0ubuntu4.tar.xz
-dpkg-source: info: building workspaces-gtk-theme in workspaces-gtk-theme_5.0.0ubuntu4.dsc
+dpkg-source: info: building workspaces-gtk-theme in workspaces-gtk-theme_5.0.0ubuntu5.tar.xz
+dpkg-source: info: building workspaces-gtk-theme in workspaces-gtk-theme_5.0.0ubuntu5.dsc
  debian/rules build
 make: 'build' is up to date.
  fakeroot debian/rules binary
@@ -47,12 +47,12 @@ Build targets in project: 13
 Found ninja-1.9.0 at /usr/bin/ninja
    dh_auto_build -O--buildsystem=meson
 	cd obj-x86_64-linux-gnu && LC_ALL=C.UTF-8 ninja -j8 -v
-[1/13] /usr/bin/sassc -a ../gnome-shell/src/gnome-shell-high-contrast.scss gnome-shell/src/gnome-shell-high-contrast.css
+[1/13] /usr/bin/sassc -a ../gnome-shell/src/dark/gnome-shell.scss gnome-shell/src/dark/workspaces-dark.css
 [2/13] /usr/bin/sassc -a ../gnome-shell/src/gnome-shell.scss gnome-shell/src/gnome-shell.css
-[3/13] /usr/bin/sassc -a ../gnome-shell/src/gnome-shell.scss gnome-shell/src/workspaces.css
-[4/13] /usr/bin/sassc -a ../gnome-shell/src/dark/gnome-shell.scss gnome-shell/src/dark/gnome-shell.css
-[5/13] /usr/bin/sassc -a ../gnome-shell/src/dark/gnome-shell.scss gnome-shell/src/dark/workspaces-dark.css
-[6/13] /usr/bin/sassc -a ../gnome-shell/src/light/gnome-shell.scss gnome-shell/src/light/gnome-shell.css
+[3/13] /usr/bin/sassc -a ../gnome-shell/src/gnome-shell-high-contrast.scss gnome-shell/src/gnome-shell-high-contrast.css
+[4/13] /usr/bin/sassc -a ../gnome-shell/src/gnome-shell.scss gnome-shell/src/workspaces.css
+[5/13] /usr/bin/sassc -a ../gnome-shell/src/light/gnome-shell.scss gnome-shell/src/light/gnome-shell.css
+[6/13] /usr/bin/sassc -a ../gnome-shell/src/dark/gnome-shell.scss gnome-shell/src/dark/gnome-shell.css
 [7/13] /usr/bin/sassc -a ../gtk/src/light/gtk-3.0/gtk-dark.scss gtk/src/light/gtk-3.0/gtk-dark-generated.css
 [8/13] /usr/bin/sassc -a ../gtk/src/light/gtk-3.0/gtk.scss gtk/src/light/gtk-3.0/gtk-generated.css
 [9/13] glib-compile-resources gtk/src/light/gtk-3.0/gtk.gresource.xml --sourcedir gtk/src/light/gtk-3.0 --sourcedir ../gtk/src/light/gtk-3.0 --internal --generate --target gtk/src/light/gtk-3.0/gtk30.gresource --dependency-file gtk/src/light/gtk-3.0/gtk30.gresource.d
@@ -596,23 +596,23 @@ dh_missing --fail-missing
 make[1]: Leaving directory '/home/christian/workspaces/workspaces-gtk-theme/workspaces-gtk-theme-1.0'
    dh_installdeb -O--buildsystem=meson
    dh_gencontrol -O--buildsystem=meson
-dpkg-gencontrol: warning: Depends field of package workspaces-sound-theme: substitution variable ${shlibs:Depends} used, but is not defined
-dpkg-gencontrol: warning: Depends field of package workspaces-gnome-shell-theme: substitution variable ${shlibs:Depends} used, but is not defined
 dpkg-gencontrol: warning: Depends field of package workspaces-gtk-theme: substitution variable ${shlibs:Depends} used, but is not defined
+dpkg-gencontrol: warning: Depends field of package workspaces-gnome-shell-theme: substitution variable ${shlibs:Depends} used, but is not defined
+dpkg-gencontrol: warning: Depends field of package workspaces-sound-theme: substitution variable ${shlibs:Depends} used, but is not defined
    dh_md5sums -O--buildsystem=meson
    dh_builddeb -O--buildsystem=meson
-dpkg-deb: building package 'workspaces-gtk-theme' in '../workspaces-gtk-theme_5.0.0ubuntu4_all.deb'.
-dpkg-deb: building package 'workspaces-sound-theme' in '../workspaces-sound-theme_5.0.0ubuntu4_all.deb'.
-dpkg-deb: building package 'workspaces-gnome-shell-theme' in '../workspaces-gnome-shell-theme_5.0.0ubuntu4_all.deb'.
+dpkg-deb: building package 'workspaces-gnome-shell-theme' in '../workspaces-gnome-shell-theme_5.0.0ubuntu5_all.deb'.
+dpkg-deb: building package 'workspaces-gtk-theme' in '../workspaces-gtk-theme_5.0.0ubuntu5_all.deb'.
+dpkg-deb: building package 'workspaces-sound-theme' in '../workspaces-sound-theme_5.0.0ubuntu5_all.deb'.
  dpkg-genbuildinfo
- dpkg-genchanges  >../workspaces-gtk-theme_5.0.0ubuntu4_amd64.changes
+ dpkg-genchanges  >../workspaces-gtk-theme_5.0.0ubuntu5_amd64.changes
 dpkg-genchanges: info: including full source code in upload
  dpkg-source --after-build .
 dpkg-buildpackage: info: full upload; Debian-native package (full source is included)
-Now running lintian workspaces-gtk-theme_5.0.0ubuntu4_amd64.changes ...
+Now running lintian workspaces-gtk-theme_5.0.0ubuntu5_amd64.changes ...
 W: workspaces-gtk-theme source: incomplete-creative-commons-license cc-by-sa (paragraph at line 39)
 W: workspaces-gtk-theme source: missing-license-paragraph-in-dep5-copyright cc-by-sa-4.0 (paragraph at line 18)
-E: workspaces-sound-theme: description-is-pkg-name workspaces sound theme
 E: workspaces-gtk-theme: description-is-pkg-name Workspaces GTK Theme
 E: workspaces-gnome-shell-theme: description-is-pkg-name Workspaces GNOME Shell Theme
+E: workspaces-sound-theme: description-is-pkg-name workspaces sound theme
 Finished running lintian.

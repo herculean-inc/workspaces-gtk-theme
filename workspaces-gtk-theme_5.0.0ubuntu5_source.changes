@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 02 Feb 2020 19:10:13 -0600
+Source: workspaces-gtk-theme
+Architecture: source
+Version: 5.0.0ubuntu5
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-gtk-theme (5.0.0ubuntu5) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ d14226bc0525b09b9f1c46877cd4a76fda07ba26 1920 workspaces-gtk-theme_5.0.0ubuntu5.dsc
+ 4ce5e224baaab6dff675079e624fc8aba46213fc 1042348 workspaces-gtk-theme_5.0.0ubuntu5.tar.xz
+ 23e620fb266c72b67cc75df6fab5a07b5c05d780 6213 workspaces-gtk-theme_5.0.0ubuntu5_source.buildinfo
+Checksums-Sha256:
+ d7d5a4414e14eb05bcd54bd05c1455a0a7783c24be7763aac20a5f93bd01c897 1920 workspaces-gtk-theme_5.0.0ubuntu5.dsc
+ 73f6371125f2aa1250028e9a821b82043640fa53fc3c8a6bcf6119d774b20435 1042348 workspaces-gtk-theme_5.0.0ubuntu5.tar.xz
+ e4b6cf76c545ce902cb759df16830b9666324b16d7dc2033ab76f763cef2ba30 6213 workspaces-gtk-theme_5.0.0ubuntu5_source.buildinfo
+Files:
+ 9d8c934ebc35f27e40a9c97bae39bbc0 1920 misc optional workspaces-gtk-theme_5.0.0ubuntu5.dsc
+ 6832a7f349eb40d230efc76d2f0e89dc 1042348 misc optional workspaces-gtk-theme_5.0.0ubuntu5.tar.xz
+ 3b132850e355a39206f8c88d23049f6b 6213 misc optional workspaces-gtk-theme_5.0.0ubuntu5_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl43cvgACgkQ4dwtItTb
+NMjHNRAAqbOhu0vRSN3E9/Z0kL7LV9ikoaMHZ198UmGK4L5rYOlpU+91hWjFmkdc
+Uevi0w/50DBLt6qjudzxRQ6H6emejGnlDbPTanKzkS6CGflzXi2uyipl2gRlRfxL
+qZSdyBBlqFlsarEIj51sHmXl2c56e2/1ScwC1gQ+bLhHcP5oxiiVCjb+jIg/Ko96
+EXiovD2fPjB0N7plAajV2pF8PhMoVKs6kBv7SnKG+SZN8ovh+++Af3E72dF6tPho
+aa6QHeSj6Y1nHtZK/uTazgcW2aDFl08z1o9OYLfLsUWpmBPg7r0sbnrH2uXLUCqn
+yPVShxnWlKhWTgi0vcKzXd/KtMWNYk9rH94rKJWshS4HOlogXIXgc2ut2W5FojCY
+qDT7aLCBbFX2Ebc2qO4+bfgX0W/Tl+ttPmRVZEdmR3F24QPv5ze16pCnh+suIuwg
+g3h5lBSfJ5/RcaFIrOEbVJfBrtS5XyqNBL0eX2Z7ESCoK1sv+peUsZ4KoZZNrAyH
+zeNfxnUUReEZgMvA+/nYsgtDXnDzUx15JuSTf6qVJT6vQCmdipcFKTKyYphpaaMF
+1Nl4xMvQyzYM9G8wOvKBYVCmRXFYlcrvfwOieyBxLdOtJINtYaPQEhbGRUJo7ZcS
+rxSog2icFNOvzBKcglLSJsm4qgyJi7+clm46gnCbGEujNowLLtg=
+=GtUK
+-----END PGP SIGNATURE-----

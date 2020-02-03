@@ -1,6 +1,6 @@
 Package: workspaces-gnome-shell-theme
 Source: workspaces-gtk-theme
-Version: 5.0.0ubuntu4
+Version: 5.0.0ubuntu5
 Architecture: all
 Maintainer: Herculean Inc <hello@hercules.dev>
 Installed-Size: 621

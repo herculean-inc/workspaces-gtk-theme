@@ -2,7 +2,7 @@ Format: 3.0 (native)
 Source: workspaces-gtk-theme
 Binary: workspaces-gnome-shell-theme, workspaces-gtk-theme, workspaces-sound-theme
 Architecture: all
-Version: 5.0.0ubuntu4
+Version: 5.0.0ubuntu5
 Maintainer: Herculean Inc <hello@hercules.dev>
 Homepage: https://github.com/herculean-inc/workspaces-gtk-theme
 Standards-Version: 4.4.0.0
@@ -15,8 +15,8 @@ Package-List:
  workspaces-gtk-theme deb misc optional arch=all
  workspaces-sound-theme deb misc optional arch=all
 Checksums-Sha1:
- 0a6b98ff3fdbc7c43d832e80e1344c4f8bd91d1c 1042452 workspaces-gtk-theme_5.0.0ubuntu4.tar.xz
+ 4ce5e224baaab6dff675079e624fc8aba46213fc 1042348 workspaces-gtk-theme_5.0.0ubuntu5.tar.xz
 Checksums-Sha256:
- 00bdca4eb0f5516a145ac5126f418c01f8ea1d14e7989e1aa5ee42deb5f2dc03 1042452 workspaces-gtk-theme_5.0.0ubuntu4.tar.xz
+ 73f6371125f2aa1250028e9a821b82043640fa53fc3c8a6bcf6119d774b20435 1042348 workspaces-gtk-theme_5.0.0ubuntu5.tar.xz
 Files:
- 70d6e411fc2f029c5374521bc4c6dc20 1042452 workspaces-gtk-theme_5.0.0ubuntu4.tar.xz
+ 6832a7f349eb40d230efc76d2f0e89dc 1042348 workspaces-gtk-theme_5.0.0ubuntu5.tar.xz

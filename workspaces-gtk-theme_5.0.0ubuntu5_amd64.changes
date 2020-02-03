@@ -1,0 +1,39 @@
+Format: 1.8
+Date: Sun, 02 Feb 2020 19:10:13 -0600
+Source: workspaces-gtk-theme
+Binary: workspaces-gnome-shell-theme workspaces-gtk-theme workspaces-sound-theme
+Architecture: source all
+Version: 5.0.0ubuntu5
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Description:
+ workspaces-gnome-shell-theme - Workspaces GNOME Shell Theme
+ workspaces-gtk-theme - Workspaces GTK Theme
+ workspaces-sound-theme - workspaces sound theme
+Changes:
+ workspaces-gtk-theme (5.0.0ubuntu5) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ 34c7127be3b154444513a9e1133707446e8d267d 1037 workspaces-gtk-theme_5.0.0ubuntu5.dsc
+ 4ce5e224baaab6dff675079e624fc8aba46213fc 1042348 workspaces-gtk-theme_5.0.0ubuntu5.tar.xz
+ 84c5843d1a784fee8463bcc8f8ab551e44c07778 118820 workspaces-gnome-shell-theme_5.0.0ubuntu5_all.deb
+ b4c0a3a352df495ae86b24b0a97fc9c4b3f77c05 425288 workspaces-gtk-theme_5.0.0ubuntu5_all.deb
+ c42cdcab44ed3f13feb6b061d50145a1d71ffcad 7447 workspaces-gtk-theme_5.0.0ubuntu5_amd64.buildinfo
+ c1e922177f9ed31d71160c7554340a99b313c8c2 259540 workspaces-sound-theme_5.0.0ubuntu5_all.deb
+Checksums-Sha256:
+ 2f92c15ff4a62f64ea7e4130ca1112167862dfc0f159a39d55e8e9e75b7389d4 1037 workspaces-gtk-theme_5.0.0ubuntu5.dsc
+ 73f6371125f2aa1250028e9a821b82043640fa53fc3c8a6bcf6119d774b20435 1042348 workspaces-gtk-theme_5.0.0ubuntu5.tar.xz
+ 7a66e52756115ed867158c299e993220d2439e8c2101fba826805767324d2558 118820 workspaces-gnome-shell-theme_5.0.0ubuntu5_all.deb
+ 4123d4e74f5a02521f9c9c656436cebd41b6200111f4bada72f692e383e1b3a0 425288 workspaces-gtk-theme_5.0.0ubuntu5_all.deb
+ a4c0d39a4cded2508d91c72330151c1f9c50fe090dd917db630c7acdee4da32f 7447 workspaces-gtk-theme_5.0.0ubuntu5_amd64.buildinfo
+ 2e59134c1410cd06cc967e8ac5e99e01456c2285a1dfad4fd2bd590af6e81c58 259540 workspaces-sound-theme_5.0.0ubuntu5_all.deb
+Files:
+ e2a4d34246cd86b10d6cef92bd564ecd 1037 misc optional workspaces-gtk-theme_5.0.0ubuntu5.dsc
+ 6832a7f349eb40d230efc76d2f0e89dc 1042348 misc optional workspaces-gtk-theme_5.0.0ubuntu5.tar.xz
+ 2fac9cfbe42b7157b6d5433abdd7fe5f 118820 misc optional workspaces-gnome-shell-theme_5.0.0ubuntu5_all.deb
+ e802d8dd068550f21275dbd55b2eb42c 425288 misc optional workspaces-gtk-theme_5.0.0ubuntu5_all.deb
+ 924cae1476006d1384b7ec7f7d0472d9 7447 misc optional workspaces-gtk-theme_5.0.0ubuntu5_amd64.buildinfo
+ 1d46b05b4f8d2226b78aa4c7657919ac 259540 misc optional workspaces-sound-theme_5.0.0ubuntu5_all.deb
