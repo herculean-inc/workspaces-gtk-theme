@@ -1,0 +1,14 @@
+Package: workspaces-gtk-theme
+Version: 5.0.0ubuntu4
+Architecture: all
+Maintainer: Herculean Inc <hello@hercules.dev>
+Installed-Size: 3591
+Depends: gnome-themes-extra, gtk2-engines-pixbuf, gtk2-engines-murrine
+Conflicts: workspaces-gnome-shell-theme (<= 4.1.0)
+Section: misc
+Priority: optional
+Homepage: https://github.com/herculean-inc/workspaces-gtk-theme
+Description: Workspaces GTK Theme
+ The Workspaces theme for GTK.
+ .
+ This package contains the GTK 2 and 3 theme parts

@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Workspaces
+Type=X-GNOME-Metatheme
+Comment=The Workspaces GTK Theme
+Encoding=UTF-8
+GtkTheme=Workspaces
+IconTheme=Workspaces
+CursorTheme=Workspaces
+CursorSize=24

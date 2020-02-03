@@ -1,0 +1,16 @@
+Package: workspaces-sound-theme
+Source: workspaces-gtk-theme
+Version: 5.0.0ubuntu4
+Architecture: all
+Maintainer: Herculean Inc <hello@hercules.dev>
+Installed-Size: 332
+Section: misc
+Priority: optional
+Homepage: https://github.com/herculean-inc/workspaces-gtk-theme
+Description: workspaces sound theme
+ The Workspaces sound theme is based on the Ubuntu Yaru sound theme.
+ .
+ This package contains the sound theme
+ .
+ If you want to follow development, more information here:
+ https://community.ubuntu.com/c/desktop/theme-refresh.
